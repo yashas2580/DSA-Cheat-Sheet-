@@ -19,7 +19,11 @@ Example: Consider the given array of size 5. int arr[5]={1,2,3,4,5};.<br>
 Here if I want to access the element 5 I can directly use the index of it to access the element from the array. Here I can use arr[4] to get the value 5 from the array.<br>
 Second Case by using the for loop here the size of the array is 5. So run a for loop starting from 0 to the index of the last element i.e 4. 
 </p>
-
+<h2>Vectors in C++</h2>
+<p> Vectors are variable sized array which doubles its size when completely filled.</p>
+<h2>Declaration of Vectors</h2>
+<p>Vectors can be declared by using this genral syntax </p>
+<p><code> vector<data_type>vector_name</code></p>
 
 
 
